@@ -1,6 +1,6 @@
 # lab1_amm/main_matrix.py
 
-from matrix import Matrix
+from lab1_amm.matrix import Matrix
 
 
 def main():
